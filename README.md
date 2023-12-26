@@ -26,8 +26,6 @@ I am a freelance programmer who is currently taking a bachelor's program at Suna
 
 <br />
 <br />
-<br />
-<br />
 
 ### 📊 Stats
 
