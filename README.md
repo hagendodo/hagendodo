@@ -1,6 +1,6 @@
 # 🦩 Raden Ibnu Huygenz
 
-**`Freelance Developer`**
+**`Freelance Fullstack Developer`**
 
 I am a freelance programmer who is currently taking a bachelor's program at Sunan Gunung Djati State Islamic University of Bandung. I am open to opportunities to join a project or team with the skills I have. I like learning new things related to programming, so I am very open to new technology.
 
