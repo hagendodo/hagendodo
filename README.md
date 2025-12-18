@@ -2,7 +2,7 @@
 
 **`Freelance Fullstack Developer`**
 
-I am a freelance programmer who is currently taking a bachelor's program at Sunan Gunung Djati State Islamic University of Bandung. I am open to opportunities to join a project or team with the skills I have. I like learning new things related to programming, so I am very open to new technology.
+I am a Full-stack Developer with 1 year of experience and a Bachelor’s degree in Engineering. I am open to joining a project or team where I can contribute my skills and continue learning the latest in Software Engineering.
 
 
 ### 🖥️ Tech Stack
