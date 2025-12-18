@@ -7,23 +7,44 @@ I am a Full-stack Developer with 1 year of experience and a Bachelor’s degree 
 
 ### 🖥️ Tech Stack
 
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-<img align="left" alt="Next JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Node JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+**Laravel (TALL), MERN, MEVN**
+
+<p>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg)" width="30" title="Laravel" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg](https://www.google.com/url?sa=E&source=gmail&q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)" width="30" title="MongoDB" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg](https://www.google.com/url?sa=E&source=gmail&q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)" width="30" title="Express" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" width="30" title="React" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg](https://www.google.com/url?sa=E&source=gmail&q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)" width="30" title="Vue.js" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)" width="30" title="Node.js" />
+</p>
+
+### Mobile Development
+
+**Flutter, Kotlin**
+
+<p>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg)" width="30" title="Flutter" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg](https://www.google.com/url?sa=E&source=gmail&q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg)" width="30" title="Kotlin" />
+</p>
+
+### Database
+
+**MySQL, PostgreSQL, Firebase**
+
+<p>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)" width="30" title="MySQL" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://www.google.com/url?sa=E&source=gmail&q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" width="30" title="PostgreSQL" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)" width="30" title="Firebase" />
+</p>
+
+### Back-end Growth
+
+**Golang, Python**
+
+<p>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg](https://www.google.com/url?sa=E&source=gmail&q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg)" width="30" title="Golang" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://www.google.com/url?sa=E&source=gmail&q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" width="30" title="Python" />
+</p>
 
 <br />
 <br />
