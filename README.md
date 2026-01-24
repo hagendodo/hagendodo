@@ -1,31 +1,47 @@
-# 🦩 Raden Ibnu Huygenz
+# 🦩 Raden Ibnu Huygenz  
+**Full-Stack Developer**
 
-**`Fullstack Developer`**
-
-I am a Full-stack Developer with 1 year of experience and a Bachelor’s degree in Engineering. I am open to joining a project or team where I can contribute my skills and continue learning the latest in Software Engineering.
+Full-Stack Developer with 1+ year of professional experience and a Bachelor’s degree in Engineering. Passionate about building scalable web and mobile applications, and continuously learning modern Software Engineering practices. Open to collaboration and contributing to impactful projects and teams.
 
 ---
 
-### 🖥️ TECH STACK WEB DEV
+## 💻 Web Development
+- Laravel (TALL Stack)
+- MERN Stack (MongoDB, Express, React, Node.js)
+- MEVN Stack (MongoDB, Express, Vue, Node.js)
 
-**Laravel (TALL), MERN, MEVN**
+---
 
-### 🤖 Machine Learning & AI
+## 🤖 Machine Learning & AI
+- Machine Learning
+- Deep Learning
 
-**Machine & Deep Learning**
+---
 
-### 📱 Mobile Development
+## 📱 Mobile Development
+- Flutter
+- Kotlin (Android)
 
-**Flutter, Kotlin**
+---
 
-### 🗄️ Database
+## 🗄️ Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- Firebase
 
-**MySQL, PostgreSQL, MongoDB, Firebase**
+---
 
-### ☁️ Server & Deployment
+## ☁️ DevOps & Cloud Infrastructure
+- Docker
+- Linux Server
+- GitHub Actions (CI/CD)
+- Google Cloud Platform (GCP)
 
-**DevOps & Infrastructure (Docker, Linux Server, Github Actions, Google Cloud Platform)**
+---
 
-### 🚀 Back-end Growth
+## 🚀 Backend & Programming Languages
+- Golang
+- Python
 
-**Golang, Python**
+---
