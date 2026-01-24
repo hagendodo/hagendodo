@@ -6,13 +6,13 @@ I am a Full-stack Developer with 1 year of experience and a Bachelor’s degree 
 
 ---
 
-### 🖥️ Tech Stack
+### 🖥️ TECH STACK WEB DEV
 
 **Laravel (TALL), MERN, MEVN**
 
 ### 🤖 Machine Learning & AI
 
-**Modeling & Deep Learning**
+**Machine & Deep Learning**
 
 ### 📱 Mobile Development
 
@@ -20,11 +20,11 @@ I am a Full-stack Developer with 1 year of experience and a Bachelor’s degree 
 
 ### 🗄️ Database
 
-**MySQL, PostgreSQL, Firebase**
+**MySQL, PostgreSQL, MongoDB, Firebase**
 
 ### ☁️ Server & Deployment
 
-**DevOps & Infrastructure (Docker, Linux Server, Github Actions, GCP)**
+**DevOps & Infrastructure (Docker, Linux Server, Github Actions, Google Cloud Platform)**
 
 ### 🚀 Back-end Growth
 
