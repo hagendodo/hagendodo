@@ -1,7 +1,7 @@
 # 🦩 Raden Ibnu Huygenz  
 **Full-Stack Developer**
 
-Full-Stack Developer with 1+ year of professional experience and a Bachelor’s degree in Engineering. Passionate about building scalable web and mobile applications, and continuously learning modern Software Engineering practices. Open to collaboration and contributing to impactful projects and teams.
+Full-Stack Developer with 2+ year of professional experience and a Bachelor’s degree in Engineering. Passionate about building scalable web and mobile applications, and continuously learning modern Software Engineering practices. Open to collaboration and contributing to impactful projects and teams.
 
 📧 Business inq : ibnuwdodo@gmail.com
 
